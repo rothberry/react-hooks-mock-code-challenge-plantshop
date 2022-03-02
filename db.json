@@ -55,22 +55,10 @@
       "id": 9
     },
     {
-      "name": "Phil Roth",
-      "image": "https://images.unsplash.com/photo-1526318896980-cf78c088247c?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
-      "price": "012444",
+      "name": "plont",
+      "image": "https://images.unsplash.com/photo-1531875456634-3f5418280d20?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
+      "price": "1.23",
       "id": 10
-    },
-    {
-      "name": "Phil Roth",
-      "image": "https://images.unsplash.com/photo-1459156212016-c812468e2115?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=705&q=80",
-      "price": "0.1",
-      "id": 11
-    },
-    {
-      "name": "Phil Roth",
-      "image": "https://images.unsplash.com/photo-1459156212016-c812468e2115?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=705&q=80",
-      "price": 0.04,
-      "id": 12
     }
   ]
 }
